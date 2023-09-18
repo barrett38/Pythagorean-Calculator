@@ -171,10 +171,3 @@ reader.question("What do you wish to calculate? ", function(input){
     console.log("Sum: ", sum, " > ", sum2, " > ", reducedComplete)
     reader.close()
 });
-
-
-
-
-
-
-
